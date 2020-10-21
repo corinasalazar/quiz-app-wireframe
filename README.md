@@ -1,5 +1,11 @@
 # quiz-app-wireframe
 
+## Notes
+
+- Pages added as separate .html files
+- Wireframe image is included as a file in repo
+
+
 ###Q's and A's
 
 question - When was the first Rambo movie released?
